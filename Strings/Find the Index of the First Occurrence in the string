@@ -7,3 +7,6 @@ class Solution {
         return haystack.indexOf(needle);
     }
 }
+
+TC: O(N)
+SC: O()
